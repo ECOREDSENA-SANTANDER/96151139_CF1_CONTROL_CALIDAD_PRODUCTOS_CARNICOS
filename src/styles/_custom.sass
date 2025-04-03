@@ -1,21 +1,27 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 3.6s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 25%
+    right: 72%
   &-2
+    animation: float1 3.2s ease-in-out infinite alternate
+    position: absolute
+    top: 42%
+    right: 11%
+    width: 110px
+  &-3
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 71%
+    right: 72%
+    width: 70px
 @keyframes float1
   0%
     transform: translateY(20px)
   100%
     transform: translateY(0px)
-  
+
 
 .banner-principal .tarjeta
   background-position: left 50% !important
@@ -25,6 +31,53 @@
   color: white !important   
 .banner-interno__titulo__icono i
   color: $color-primario
-figcaption
-  font-weight: normal
+
+
+.banner-interno__fondo    
+  background-image: url("../assets/curso/portada/mini-portada.png") !important
+  background-repeat: no-repeat
+.fa-lista
+  li
+    display: flex !important
+  li:before
+    position: relative
+    margin-right: 7px
+    font-size: 1.4rem 
+.lista-ul--color.color-primario li > i:first-of-type  
+  color: $color-primario
+.lista-ul--color.color-secundario li > i:first-of-type  
+  color: $color-secundario       
+.lista-ol--cuadro.color-primario .lista-ol--cuadro__vineta
+  background-color: $color-primario
+.bg-color-acento-contenido
+  background-color: $color-acento-contenido
+.w-fit
+  width: fit-content
+
+
+.banner-principal
+  @media (max-width: $bp-max-md)
+    .tarjeta
+      background-image: url('../assets/curso/portada/responsive.png') !important
+      background-repeat: no-repeat 
+      background-size: contain
+      background-color: #7C1815
+      background-position: top center !important
+    &__info
+      padding-top: 14% !important 
+    h1, p
+      color: $white
+
  
+.bgc-1
+  background-image: url('../assets/curso/temas/intro/bg1.png')
+  background-position: 100% 80%
+  background-size: 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover 

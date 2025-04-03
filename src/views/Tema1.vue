@@ -6,7 +6,8 @@
         .titulo-principal__numero
           span 1
         h1 Titulo de primer nivel
-        
+    
+      p.mb-4 Las carnes blancas se consideran la contraparte de las carnes rojas, esta clasificación incluye las carnes que provienen de animales como las aves (pollo, pavo, pato, ganso) y algunos mamíferos como el conejo. 
 
   </template>
 
