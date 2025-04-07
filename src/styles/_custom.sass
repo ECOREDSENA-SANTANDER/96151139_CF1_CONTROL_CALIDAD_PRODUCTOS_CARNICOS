@@ -31,7 +31,8 @@
   color: white !important   
 .banner-interno__titulo__icono i
   color: $color-primario
-
+figcaption
+  font-weight: normal
 
 .banner-interno__fondo    
   background-image: url("../assets/curso/portada/mini-portada.png") !important
@@ -55,7 +56,8 @@
   background-color: $color-acento-contenido
 .w-fit
   width: fit-content
-
+.columns-2
+  columns: 2
 
 .banner-principal
   @media (max-width: $bp-max-md)
@@ -94,6 +96,18 @@
   @media screen and (max-width: 767px)
     margin-inline: -1.4rem  
     background-size: cover 
+.bgc-3
+  background-image: url('../assets/curso/temas/t1/bgc1.png')
+  background-position: 100% 80%
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover 
 .bg1
   background-color: #F9F6F3
 .bg2
@@ -102,6 +116,8 @@
   background-color: #EDF1EF
 .bg4
   background-color: #F4EEE8
+.bg-color-primario
+  background-color: $color-primario
 
 .slyder-a__btn--sigt, .slyder-a__btn--atrs
   background-color: #E84136
@@ -113,9 +129,54 @@
   &--active 
     background-color: #7C1815
     border-color: #7C1815
-
+.tabs-a.color-acento-botones 
+  .tabs-a__tab
+    background-color: $color-acento-contenido
+    color: $white
+    &__selected, &:hover, &:focus
+      background-color: $color-acento-botones
+      color: $white
+    &__text
+      overflow: auto
+      text-overflow: initial
+      text-wrap: auto
+.acordion__accion
+  &__btn--a
+    background-color: #E84136 !important
+    color: #FFF
+    transition: all 0.3s ease-out
+.acordion__activo
+  background-color: #9B4B43 !important
+  transition: all 0.3s ease-out
+  .acordion__titulo h3
+    color: #FFF
+.acordion__titulo h3
+  color: #7C1815
 
 .img-rara
   position: relative
   .la-img
-    margin-top: -71%
+    margin-top: -60%
+.subt
+  position: relative
+  width: fit-content
+  padding-right: 45px
+  &::before
+    content: ''
+    position: absolute
+    background-color: #7C1815
+    border-radius: 200px
+    width: 100%
+    height: 75%
+    top: 7px
+    z-index: 0
+  h3, img
+    z-index: 999  
+    position: relative
+.subt2    
+  background-color: #E6D5D3
+  width: fit-content
+  border-radius: 20px
+  padding: 7px 45px 9px 15px
+  h3  
+    color: #7C1815    
