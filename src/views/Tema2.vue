@@ -230,7 +230,7 @@
 
     p.mb-5 Los aditivos para productos procesados que son enlatados están regidos por el Food Chemical Codex (FCC), que establece las especificaciones de pureza y calidad.
 
-    .subt.mb-4(data-aos="fade-right")
+    .subt.mb-4(data-aos="fade-left")
       .row.align-items-center
         .col-auto
           img(src='@/assets/curso/temas/t2/subt.svg', alt='')

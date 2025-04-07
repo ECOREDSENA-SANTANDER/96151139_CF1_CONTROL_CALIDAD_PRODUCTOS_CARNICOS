@@ -88,9 +88,117 @@
       #t_1_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 1.1 Clasificación de la carne según el origen
 
-
       p.mb-5 La carne se clasifica de acuerdo con el animal del que proviene, lo que influye en sus características nutricionales y sensoriales. Conocer el origen de la carne permite entender sus propiedades nutricionales, cómo procesarla, cómo controlar y conservar su calidad y cómo integrarla en una dieta equilibrada o en determinado mercado. 
 
+      .subt.mb-4(data-aos="fade-left")
+        .row.align-items-center
+          .col-auto
+            img(src='@/assets/curso/temas/t2/subt.svg', alt='')
+          .col-auto
+            h3.mb-0.text-white Carne de vacuno
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-8
+          p La carne proveniente del ganado vacuno es aquella que se obtiene principalmente de las vacas y bueyes, sin embargo, a nivel industrial, la carne más utilizada para el consumo humano es la que proviene de las vacas. 
+          p Las razas vacunas fueron de las primeras en ser domesticadas por el ser humano para satisfacer la necesidad de alimento en grandes comunidades. La ganadería de estos animales se ha practicado desde hace más de 10.000 años.
+          .bg2.p-3.p-md-4
+            p.mb-0 La carne de vacuno pertenece a la clasificación nutricional de las carnes rojas y se encuentra entre las más consumidas a nivel mundial, representando aproximadamente el 25 % de toda la carne producida en el mundo. Sus valores nutricionales dependen de varios factores, como la parte del animal de donde se obtenga la carne, además es importante tener en cuenta que, a lo largo de la vida del animal, la calidad y el contenido nutricional de su carne también pueden cambiar.
+        .col-lg-4    
+          img(src='@/assets/curso/temas/t1/6.png', alt='')  
+
+      p Por esta razón, las carnes provenientes del vacuno se clasifican en:
+
+      .row.justify-content-center.mb-5
+        .col-lg-3(data-aos="fade-right")
+          img(src='@/assets/curso/temas/t1/7.png', alt='') 
+        .col-lg-9(data-aos="fade-left")
+          SlyderF.circl-arrow(columnas="col-lg-6 col-xl-6")
+            .tarjeta.bg1.p-4
+              .row.justify-content-center.mb-2
+                .col-12
+                  img(src='@/assets/curso/temas/t1/tarj1.png' alt='')
+              h4.bg-color-acento-contenido.text-center.text-white.py-1 Ternera de leche:
+              p.text-center Corresponde a la carne del animal que aún no ha cumplido los 8 meses de vida y que ha sido alimentado exclusivamente con leche materna. El color de esta carne presenta un tono rosado claro, por lo que en ocasiones se le considera como carne blanca. Esta carne posee una contextura tierna y suave, haciendo que sea de fácil digestión, además de poseer un sabor suave y delicado. 
+            .tarjeta.bg1.p-4
+              .row.justify-content-center.mb-2
+                .col-12
+                  img(src='@/assets/curso/temas/t1/tarj2.png' alt='')
+              h4.bg-color-acento-contenido.text-center.text-white.py-1 Ternera:
+              p.text-center La carne de ternera proviene de los animales que tienen entre 8 y 12 meses de edad. Es una carne con un sabor más pronunciado, pero de textura suave. Su contenido de grasa es muy bajo, ya que contienen una buena cantidad de agua en su composición. 
+            .tarjeta.bg1.p-4
+              .row.justify-content-center.mb-2
+                .col-12
+                  img(src='@/assets/curso/temas/t1/tarj3.png' alt='')
+              h4.bg-color-acento-contenido.text-center.text-white.py-1 Añojo: 
+              p.text-center Cuando el vacuno se encuentra entre los 12 y 24 meses de edad, se le denomina añojo, sin importar si se trata de una hembra o un macho. La carne se encuentra en un estado más desarrollado y con más sabor, sin embargo, continúa siendo tierna y con una leve cantidad de grasa. 
+            .tarjeta.bg1.p-4
+              .row.justify-content-center.mb-2
+                .col-12
+                  img(src='@/assets/curso/temas/t1/tarj4.png' alt='')
+              h4.bg-color-acento-contenido.text-center.text-white.py-1 Novillo: 
+              p.text-center Es la carne que proviene de un animal que tiene una edad entre los 2 y 4 años. A partir de esta etapa la carne comienza a adquirir un color más pronunciado hacia el rojo y su sabor se incrementa, lo que la hace más sabrosa, sin embargo, la ternura disminuye, debido a que el contenido graso se hace mayor. 
+            .tarjeta.bg1.p-4
+              .row.justify-content-center.mb-2
+                .col-12
+                  img(src='@/assets/curso/temas/t1/tarj5.png' alt='')
+              h4.bg-color-acento-contenido.text-center.text-white.py-1 Vacuno mayor: 
+              p.text-center En esta variedad de carne se encuentra la de la vaca y el toro mayor de 48 meses (4 años). Las carnes procedentes de este grupo resultan con una menor ternura y poseen el más alto contenido graso comparado con las demás variedades, lo que también las hace más jugosas. Además, poseen un elevado valor nutricional, lo que la convierte en uno de los tipos de carne más consumidos y apreciados en la ganadería. 
+
+      .subt.mb-4(data-aos="fade-left")
+        .row.align-items-center
+          .col-auto
+            img(src='@/assets/curso/temas/t2/subt.svg', alt='')
+          .col-auto
+            h3.mb-0.text-white Carne de ovinos y caprinos
+      
+      p Dentro de esta clasificación están las variedades de carnes provenientes de los corderos y de las ovejas; para el caso de los corderos hay una clasificación de variedades similar a la de los vacunos que depende de la edad en la que sea sacrificado el animal. Las variedades correspondientes son: 
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-3
+          img(src='@/assets/curso/temas/t1/8.png', alt='')  
+        .col-lg-9
+          .row.justify-content-center.align-items-center.mb-4
+            .col-lg-8.mb-3.mb-md-0
+              ul.lista-ul--color.fa-lista.mb-0
+                li.mb-1
+                  i.fas.fa-check-circle
+                  span.mb-0 #[b Cordero lechal:] son aquellos animales que tienen menos de un mes de edad.
+                li.mb-1
+                  i.fas.fa-check-circle
+                  span.mb-0 #[b Cordero recental o ternasco:] es el animal que tiene menos de 4 meses de edad. 
+                li.mb-1
+                  i.fas.fa-check-circle
+                  span.mb-0 #[b Cordero pascual:] es el animal que tienen entre 4 meses y un año de edad. 
+                li.mb-0
+                  i.fas.fa-check-circle
+                  span.mb-0 #[b Ovino mayor o carnero:] es el animal que tiene más de un año de edad. 
+            .col-lg-4
+              img(src='@/assets/curso/temas/t1/9.svg', alt='') 
+          p El contenido graso del cordero y la oveja varia principalmente de acuerdo con la pieza del animal que se vaya a consumir, sin embargo, de manera general se puede afirmar que, a pesar de tratarse de una carne roja, es rica en grasas y proteínas de alto valor biológico, debido a su elevado contenido de aminoácidos esenciales para el organismo.
+          p Adicionalmente, este tipo de carne es una buena fuente de vitaminas y minerales, pues en ella se pueden encontrar las vitaminas del grupo B en especial la vitamina B12 y la B6. 
+
+
+      .subt.mb-4(data-aos="fade-left")
+        .row.align-items-center
+          .col-auto
+            img(src='@/assets/curso/temas/t2/subt.svg', alt='')
+          .col-auto
+            h3.mb-0.text-white Carne de cerdo
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-8
+          p La carne de cerdo es una de las más consumidas a nivel mundial, luego de la carne de vacuno, a pesar de que, para algunos grupos demográficos, su consumo está prohibido debido a los lineamientos de su religión.
+          .bg4.p-3.p-md-4
+            p.mb-0 La carne de cerdo es considerada como uno de los alimentos más completos, puesto que es una fuente vital de proteínas y al igual que la carne de los caprinos, aporta vitaminas del complejo B, minerales y nutrientes para el organismo humano. Además, posee un delicioso sabor para el paladar de la mayoría de las personas y puede ser apreciada en una gran variedad de cortes. En general, resulta ser una carne muy versátil a la hora de preparar diferentes platos o productos. 
+        .col-lg-4
+          img(src='@/assets/curso/temas/t1/10.png', alt='')  
+
+      .row.justify-content-center.align-items-center
+        .col-lg-3.col-md-4.col-8.mb-3.mb-md-0
+          img(src='@/assets/curso/temas/t1/11.svg', alt='')
+        .col-lg-9.col-md-8
+          p Este tipo de carne también es una fuente de ácidos grasos monoinsaturados, principalmente de ácido oleico (Velasco et al, 2019). Este tipo de ácidos grasos contribuyen a aumentar ligeramente los niveles de colesterol de alta densidad (conocido como colesterol “bueno”), lo que a su vez ayuda a reducir los niveles de colesterol de baja densidad. 
+          p Estudios han demostrado que en esencia la carne de cerdo es saludable para las personas (Lizcano & Valenzuela, 2021), sin embargo, siempre se debe ser cuidadoso a la hora de cocinarla, pues es importante que la cocción se realice correctamente, ya que una carne parcialmente cocinada podría contener agentes patógenos causantes de enfermedades.
 
 
   </template>
