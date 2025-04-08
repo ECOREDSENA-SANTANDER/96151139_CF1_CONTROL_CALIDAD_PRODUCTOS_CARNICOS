@@ -112,7 +112,7 @@
                         li 
                           i.fas.fa-check-circle
                           | Hongos en la parte externa.
-                .col-lg-4.col-md-5.col-9
+                .col-lg-4.col-md-5.col-8
                   img(src='@/assets/curso/temas/t2/slide3.png', alt='')
               .row.justify-content-center
                 .col-lg-7
