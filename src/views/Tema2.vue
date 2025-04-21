@@ -31,6 +31,7 @@
             SlyderA(tipo="b")
               .row.justify-content-center
                 .col-lg-7
+                  h4 Productos cocidos
                   p Los productos cárnicos cocidos son aquellos elaborados a base de carne, grasa y subproductos de los animales de abasto, como las vísceras que durante su elaboración han sido sometidos a algún tipo de tratamiento térmico (precocción, cocción o ahumado). En este grupo de productos se encuentran los patés, las morcillas, el jamón cocido, perniles cocidos, queso de cabeza, entre otros. 
                   p Los defectos que pueden presentar estos productos son:
                   .row.mb-4
@@ -56,6 +57,7 @@
                   img(src='@/assets/curso/temas/t2/slide1.png', alt='')
               .row.justify-content-center
                 .col-lg-7
+                  h4 Productos escaldados embutidos
                   p Son aquellos elaborados con un tipo de carne o una mezcla de 2 o más carnes y grasa, molidas o picadas, crudas o cocinadas con adición o no de subproductos y/o aditivos permitidos. 
                   p La mezcla da como resultado una pasta que luego es colocada o embutida en tripas naturales o artificiales y que se someten a uno o más tratamientos térmicos (cocción, curado, secado, ahumado). El control de la temperatura interna durante el tratamiento térmico debe estar entre 68 y 72 °C.
                   p En este grupo se encuentran:
@@ -82,6 +84,7 @@
                   img(src='@/assets/curso/temas/t2/slide2.png', alt='')
               .row.justify-content-center
                 .col-lg-7
+                  h4 Productos crudos frescos
                   p Son productos crudos elaborados con carne y grasa molidas, con adición o no de subproductos y/o aditivos permitidos. Su proceso de manufactura consta simplemente de la mezcla de los diferentes ingredientes y que pueden ser embutidos o no, curados o no y ahumados o no.
                   p Estos productos deben conservarse bajo técnicas de refrigeración o de congelación ya que la acción de conservantes como la sal y los nitritos es insuficiente debido a la cantidad limitada añadida a la mezcla. Los productos crudos frescos deben ser sometidos a un tratamiento térmico antes de su consumo. Generalmente la temperatura del tratamiento térmico antes del consumo debe ser superior a los 75 °C. 
                   p En este grupo se encuentran productos como:
@@ -116,6 +119,7 @@
                   img(src='@/assets/curso/temas/t2/slide3.png', alt='')
               .row.justify-content-center
                 .col-lg-7
+                  h4 Productos crudos madurados
                   p Son los productos crudos elaborados con carne y grasa molidas o picadas o piezas de carne íntegras, embutidos o no que se someten a un proceso de maduración que le confiere sus características organolépticas y conservabilidad, con la adición o no de cultivos iniciadores y aditivos permitidos, pudiendo ser curados o no, secados o no y ahumados o no. 
                   p La etapa de maduración comprende el desarrollo de algunos fenómenos microbiológicos y bioquímicos que implican la pérdida de humedad y el descenso del pH. 
                   p En este grupo están:
@@ -141,6 +145,7 @@
                   img(src='@/assets/curso/temas/t2/slide4.png', alt='')
               .row.justify-content-center
                 .col-lg-7
+                  h4 Productos procesados enlatados
                   p Son productos cárnicos elaborados con carne y otros ingredientes como aditivos permitidos que se tratan adecuadamente con calor en un proceso de esterilización rigurosa y se empacan en envases cerrados herméticos como las latas y que pueden ser almacenados por un largo tiempo. 
                   p El material de los envases de ser aprobado por el Ministerio de Salud y Protección Social. 
                   p Dentro de los productos procesados y enlatados se encuentran:
@@ -165,6 +170,7 @@
                   img(src='@/assets/curso/temas/t2/slide5.png', alt='')
               .row.justify-content-center
                 .col-lg-7
+                  h4 Productos cárnicos especiales  
                   p Los productos cárnicos especiales son elaborados con materias primas de muy alta calidad y aplicando técnicas de preparación especiales. 
                   p En este grupo se encuentran:
                   .row.mb-4
@@ -228,7 +234,7 @@
                 i.fas.fa-check-circle
                 | Contribuir al proceso de producción, envasado, almacenamiento y transporte.
 
-    p.mb-5 Los aditivos para productos procesados que son enlatados están regidos por el Food Chemical Codex (FCC), que establece las especificaciones de pureza y calidad.
+    p.mb-5 Los aditivos para productos procesados que son enlatados están regidos por el #[em Food Chemical Codex (FCC)], que establece las especificaciones de pureza y calidad.
 
     .subt.mb-4(data-aos="fade-right")
       .row.align-items-center
@@ -383,7 +389,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-primario")
           .row.justify-content-center.text-white(titulo="a. Nitritos y nitratos")
             .col-md-11.col-12
-              p Los nitritos y nitratos son llamadas también sales de curación y desde los antepasados se han utilizado para conservar los alimentos, evitando la proliferación de bacterias como la Clostridium botulinum, además gracias a una reacción química parcial con la mioglobina de la carne dan color rosado característico de los productos cárnicos. 
+              p Los nitritos y nitratos son llamadas también sales de curación y desde los antepasados se han utilizado para conservar los alimentos, evitando la proliferación de bacterias como la #[em Clostridium botulinum], además gracias a una reacción química parcial con la mioglobina de la carne dan color rosado característico de los productos cárnicos. 
               p Estas sustancias son muy usadas en la elaboración de productos de corta maduración como las salchichas, los jamones, las mortadelas, entre otros, para prevenir el crecimiento de bacterias, estabilizar el color y resaltar el sabor. 
               p De acuerdo con la NTC 1325 de 2023 los nitratos de sodio y de potasio pueden ser usados únicamente en productos madurados o fermentados o ambos en un máximo de 200 miligramos por kilogramo. Y en el caso de los nitritos de sodio o de potasio, estos pueden ser usados en máximo 200 miligramos por kilogramo.
           .row.justify-content-center.text-white(titulo="b. Fosfatos")

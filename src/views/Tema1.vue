@@ -73,7 +73,7 @@
             span Cortes de carne blanca
           figure  
             img(src='@/assets/curso/temas/t1/fig2.png', alt='La figura presenta dos trozos de carne blanca cruda que supone ser pechuga de pollo colocados uno al lado del otro. ')  
-          figcaption #[b Fuente:] (Chabraszewski, s.f.)
+          figcaption #[b Fuente:] (Samorodskaia, s.f.)
         .col-lg-8(data-aos="fade-left")
           p Por lo general, se considera que las carnes blancas son más saludables que las carnes rojas, esto se debe a que su contenido de grasas y calorías es menor, lo que las convierte en una opción más ligera y recomendada en muchas dietas equilibradas.
           p Si bien esto es cierto, lo saludable de la carne no depende siempre de que sea roja o blanca, debido a que el contenido de grasas y calorías depende muchas veces de la parte del animal que se esté consumiendo. Así pues, una parte especifica como el lomo de un animal vacuno puede resultar más saludable en cuestión de grasas y calorías que un ala de pollo con piel. Por tanto, no siempre la carne blanca es mejor que la roja, ya que incluso en el caso mencionado, el ala del pollo posee una mayor cantidad de colesterol de baja densidad o colesterol “malo”.
@@ -306,12 +306,12 @@
             .row.justify-content-center.text-white(titulo="Proteínas del estroma")
               .col-md-11.col-12
                 p Este tipo de proteína es el más abundante y está presente en el tejido conectivo del músculo, aunque algunas de estas proteínas tienen efectos negativos en la estabilidad de los productos cárnicos. 
-                p Una proteína importante dentro de este grupo es el colágeno, responsable de la dureza de la carne. Es la proteína más común que se encuentra en la carne y es a través de esta que se transmite la fuerza a los músculos, permitiéndoles realizar las contracciones necesarias para el movimiento. 
+                p Una proteína importante dentro de este grupo es el #[b colágeno], responsable de la dureza de la carne. Es la proteína más común que se encuentra en la carne y es a través de esta que se transmite la fuerza a los músculos, permitiéndoles realizar las contracciones necesarias para el movimiento. 
                 p La cantidad de colágeno presente en un músculo depende de la cantidad de tejido conectivo que este posea. Generalmente, los músculos que están asociados al movimiento del animal son los que tienen un mayor tejido conectivo, esto se traduce en que los músculos más activos presentan un mayor contenido de colágeno.
-                p Otra proteína que está dentro del grupo de las proteínas del estroma, se conoce con el nombre de elastina, siendo uno de los componentes del tejido conectivo que junto con el colágeno que se encuentran esencialmente en las paredes de las arterias y en los ligamentos. Esta proteína realmente no tiene mucho valor nutricional para el ser humano, tratándose de una proteína baja en aminoácidos y que es resistente a la acción de los ácidos digestivos del cuerpo humano. 
+                p Otra proteína que está dentro del grupo de las proteínas del estroma, se conoce con el nombre de #[b elastina], siendo uno de los componentes del tejido conectivo que junto con el colágeno que se encuentran esencialmente en las paredes de las arterias y en los ligamentos. Esta proteína realmente no tiene mucho valor nutricional para el ser humano, tratándose de una proteína baja en aminoácidos y que es resistente a la acción de los ácidos digestivos del cuerpo humano. 
             .row.justify-content-center.text-white(titulo="Proteínas sarcoplásmicas")
               .col-md-11.col-12
-                p En este grupo de proteínas se encuentra la denominada mioglobina, la cual es la más abundante en esta categoría. La mioglobina es la responsable de proporcionar el característico color rojizo de la carne, ya que representa el 90 % de los pigmentos que determinan su coloración. 
+                p En este grupo de proteínas se encuentra la denominada #[b mioglobina], la cual es la más abundante en esta categoría. La mioglobina es la responsable de proporcionar el característico color rojizo de la carne, ya que representa el 90 % de los pigmentos que determinan su coloración. 
                 p Además, aunque en menor proporción, la hemoglobina también contribuye al color de la carne, con una participación del 10 % de los pigmentos presentes.
             .row.justify-content-center.text-white(titulo="Proteínas miofibrilares")
               .col-md-11.col-12
@@ -319,10 +319,10 @@
                 ul.lista-ul--color.dark.fa-lista.mb-0
                   li
                     i.fas.fa-check-circle
-                    span.mb-0 #[b Las proteínas contráctiles:] en este grupo se encuentran dos proteínas individuales llamadas miosina y actina que están involucradas directamente en la contracción de los músculos permitiendo el movimiento de los animales. 
+                    span.mb-0 #[b Las proteínas contráctiles:] en este grupo se encuentran dos proteínas individuales llamadas #[b miosina] y #[b actina] que están involucradas directamente en la contracción de los músculos permitiendo el movimiento de los animales. 
                   li
                     i.fas.fa-check-circle
-                    span.mb-0 #[b Las proteínas reguladoras de las contracciones:] en este grupo están las troponinas y las tropomiosinas, las cuales tienen como función principal regular el proceso de contracción, controlando el actuar de la miosina y de la actina. Tienen la propiedad de ser solubles en soluciones salinas, además de ser las responsables de facilitar la emulsión de la grasa y el agua durante el proceso de cocción de la carne.  
+                    span.mb-0 #[b Las proteínas reguladoras de las contracciones:] en este grupo están las #[b troponinas] y las #[b tropomiosinas], las cuales tienen como función principal regular el proceso de contracción, controlando el actuar de la miosina y de la actina. Tienen la propiedad de ser solubles en soluciones salinas, además de ser las responsables de facilitar la emulsión de la grasa y el agua durante el proceso de cocción de la carne.  
         .col-lg-3.d-none.d-lg-block(data-aos="fade-left")
           img(src='@/assets/curso/temas/t1/19.png', alt='')
 
@@ -362,7 +362,7 @@
       
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
-          p Los carbohidratos se encuentran en el hígado y los músculos del animal en forma de glucógeno y tienen la función de servir como reserva de energía. El glucógeno se convierte en glucosa y esta es usada por las células musculares agotadas luego del esfuerzo físico. 
+          p Los carbohidratos se encuentran en el hígado y los músculos del animal en forma de #[b glucógeno] y tienen la función de servir como reserva de energía. El glucógeno se convierte en glucosa y esta es usada por las células musculares agotadas luego del esfuerzo físico. 
           .bg2.p-4
             .row.justify-content-center.align-items-center
               .col-lg-2.col-md-2.col-4.mb-3.mb-md-0

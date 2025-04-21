@@ -293,9 +293,19 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: ' ',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Ángela Viviana Páez Perilla',
+          cargo: 'Experta temática ',
+          centro: 'Centro Agroindustrial – Regional Quindío',
+        },
+        {
+          nombre: 'Paola Andrea Bobadilla Gutiérrez ',
+          cargo: 'Guionista – Línea de producción',
+          centro: 'Centro Agroindustrial – Regional Quindío',
+        },
+        {
+          nombre: 'Erika Daniela Manrique Rueda',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -313,7 +323,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
+          nombre: 'Johann Sebastián Terán Carvajal',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
@@ -323,7 +333,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
+          nombre: 'Yineth Ibette González Quintero',
           cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },

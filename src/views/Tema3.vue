@@ -14,7 +14,7 @@
           .col-md-3.col-7
             img(src='@/assets/curso/temas/t3/2.png', alt='')
           .col-md-9
-            p.mb-0 El Instituto Colombiano de Normas Técnicas y Certificación, ICONTEC, con la NTC 1325 reaprobada en 2023, establece los requisitos que deben cumplir los productos cárnicos procesados no enlatados en términos de composición, formulación, empaque, rotulado y características fisicoquímicas y microbiológicas, como determinación de materia grasa, determinación de proteína, determinación de nitratos y nitritos, determinación de humedad, recuento total de aerobios mesófilos, recuento de esporas Clostridium, entre otros.  
+            p.mb-0 El Instituto Colombiano de Normas Técnicas y Certificación, ICONTEC, con la NTC 1325 reaprobada en 2023, establece los requisitos que deben cumplir los productos cárnicos procesados no enlatados en términos de composición, formulación, empaque, rotulado y características fisicoquímicas y microbiológicas, como determinación de materia grasa, determinación de proteína, determinación de nitratos y nitritos, determinación de humedad, recuento total de aerobios mesófilos, recuento de esporas #[em Clostridium], entre otros.  
       .col-lg-4.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t3/1.png', alt='')
 
