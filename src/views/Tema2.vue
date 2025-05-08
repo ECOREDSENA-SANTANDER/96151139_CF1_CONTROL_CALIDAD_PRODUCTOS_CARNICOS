@@ -244,7 +244,7 @@
           h3.mb-0.text-white Ingredientes no cárnicos
 
     TabsA.color-acento-botones.mb-5(data-aos="fade-down")
-      .tarjeta.color-primario.p-4(titulo="a. Agua o hielo")
+      .tarjeta.color-primario.p-4(titulo="Agua o hielo")
         h4 Agua o hielo
         p El agua o el hielo es un ingrediente muy importante en la producción cárnica, puesto que permite dar suavidad y jugosidad a los productos cárnicos, porque gracias a su bipolaridad de cargas se fija con facilidad a las proteínas.
         p Las funciones principales del agua y del hielo son: 
@@ -264,7 +264,7 @@
               img.px-lg-2(src='@/assets/curso/temas/t2/tab1.svg', alt='')
             .col-lg-10.col-md-10
               p.mb-0 #[b Nota.] El agua o hielo que es utilizado en la elaboración de productos cárnicos debe ser agua de alta calidad química, higiénica y sanitaria, libre de cualquier agente contaminante ya sea químico o biológico, dado el uso alimentario al que va a ser destinada. Por tal razón, es indispensable que las plantas de producción de derivados cárnicos cuenten con agua potable. 
-      .tarjeta.color-primario.p-4(titulo="b. Sal")
+      .tarjeta.color-primario.p-4(titulo="Sal")
         h4 Sal
         p La sal común o cloruro de sodio es un compuesto que se viene usando desde tiempos remotos en el procesamiento de la carne. Es un compuesto altamente higroscópico pues tiene la capacidad de reducir la actividad de agua de los alimentos facilitando la conservación y contribuyendo al desarrollo de los sabores. 
         p Las funciones de la sal en la elaboración de productos cárnicos son:  
@@ -290,7 +290,7 @@
               img(src='@/assets/curso/temas/t2/tab2.svg', alt='')
             .col-lg-10.col-md-10
               p.mb-0 #[b Nota.]  La sal debe ser de alta pureza para evitar que los productos cárnicos se oxiden y/o contaminen, además se recomienda almacenarla en lugares secos debido a su capacidad para captar la humedad del ambiente.  
-      .tarjeta.color-primario.p-4(titulo="c. Azúcar")
+      .tarjeta.color-primario.p-4(titulo="Azúcar")
         h4 Azúcar
         p En los productos cárnicos se usa el azúcar o sacarosa extraído de la caña azucarera, también se usa la dextrosa o glucosa que se deriva del maíz, además de otros jarabes y edulcorantes como el sorbitol. 
         p Las funciones del azúcar en los cárnicos son:
@@ -307,7 +307,7 @@
           li.mb-1
             i.fas.fa-check-circle
             span.mb-0 Mejorar el aroma y el sabor de los productos cárnicos. 
-      .tarjeta.color-primario.p-4(titulo="d. Almidones y proteínas de origen animal y vegetal")
+      .tarjeta.color-primario.p-4(titulo="Almidones y proteínas de origen animal y vegetal")
         h4 Almidones y proteínas de origen animal y vegetal
         p Los almidones y proteínas de origen tanto animal como vegetal se usan como sustancias ligantes y emulsionantes en los procesos de producción de cárnicos debido a que aumentan la estabilidad de los productos y mejoran su rendimiento. 
         .row.justify-content-center.align-items-center.mb-4
@@ -328,7 +328,7 @@
         p Generalmente son empleadas las harinas de los cereales y los almidones del maíz, trigo, papa y yuca, además de derivados de la soya como la proteína texturizada y derivados de las proteínas de la leche de vaca como el caseinato. 
         p El caseinato es empleado para disminuir la separación de la grasa en aquellos embutidos escaldados que colocados en envases o recipientes herméticos son sometidos a temperaturas mayores de las habituales. Este ingrediente se obtiene a partir de la lecha desnatada por disgregación con bicarbonato de sodio, citratos o por disgregación mediante hidróxido de sodio, calcio o potasio.
         p A diferencia de la proteína cárnica, el caseinato no forma una red alrededor de las partículas de grasa en la masa del embutido escaldado, sino que se une directamente a las moléculas de grasa, envolviéndolas con una capa más fina, lo que incrementa la superficie expuesta de la grasa. Esta envoltura no se extiende ni se vuelve más delgada; por el contrario, el caseinato se acumula en la nueva superficie formada, permaneciendo intacta la cobertura.
-      .tarjeta.color-primario.p-4(titulo="e. Especias y condimentos")
+      .tarjeta.color-primario.p-4(titulo="Especias y condimentos")
         h4 Especias y condimentos
         p Las especias pueden ser naturales o en forma de aceites esenciales que se obtienen generalmente de diferentes partes de las plantas como hojas, tallos y semillas. Las especias mejoran y depuran el aroma de los embutidos en virtud de su acción sazonante. 
         p Las especias se pueden clasificar así:
@@ -387,20 +387,20 @@
         img(src='@/assets/curso/temas/t2/5.png', alt='')
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-primario")
-          .row.justify-content-center.text-white(titulo="a. Nitritos y nitratos")
+          .row.justify-content-center.text-white(titulo="Nitritos y nitratos")
             .col-md-11.col-12
               p Los nitritos y nitratos son llamadas también sales de curación y desde los antepasados se han utilizado para conservar los alimentos, evitando la proliferación de bacterias como la #[em Clostridium botulinum], además gracias a una reacción química parcial con la mioglobina de la carne dan color rosado característico de los productos cárnicos. 
               p Estas sustancias son muy usadas en la elaboración de productos de corta maduración como las salchichas, los jamones, las mortadelas, entre otros, para prevenir el crecimiento de bacterias, estabilizar el color y resaltar el sabor. 
               p De acuerdo con la NTC 1325 de 2023 los nitratos de sodio y de potasio pueden ser usados únicamente en productos madurados o fermentados o ambos en un máximo de 200 miligramos por kilogramo. Y en el caso de los nitritos de sodio o de potasio, estos pueden ser usados en máximo 200 miligramos por kilogramo.
-          .row.justify-content-center.text-white(titulo="b. Fosfatos")
+          .row.justify-content-center.text-white(titulo="Fosfatos")
             .col-md-11.col-12
               p En la industria de las carnes, los fosfatos son utilizados principalmente para aumentar la capacidad de retención de humedad de los productos y formar emulsiones estables. Gracias a su elevado poder de solubilizar las proteínas miofibrilares, responsables de la ligazón muscular, contribuyen a desarrollar una estructura agradable en los productos cárnicos. 
               p Su principal función en las carnes procesadas está relacionada con la acción sobre el pH, lo que contribuye a conferir una estructura elástica semejante a la encontrada en los animales recién sacrificados. 
-          .row.justify-content-center.text-white(titulo="c. Acido glutámico de sodio")
+          .row.justify-content-center.text-white(titulo="Acido glutámico de sodio")
             .col-md-11.col-12
               p El ácido glutámico de sodio, también conocido como glutamato monosódico (GMS) es un aditivo alimentario que se utiliza para potenciar el sabor de los alimentos procesados en general. En el año 1908 se le aisló por primera vez en Japón y ahora es empleado en todo el mundo como potenciador del sabor.
               p Los potenciadores del sabor son sustancias que, sin modificar el sabor propio del producto, exaltan la percepción olfato-gustativa de ese sabor. El mecanismo por el que se produce este fenómeno no está totalmente claro. Por un lado, parece ser que actúan directamente sobre las terminaciones nerviosas haciéndolas especialmente sensibles a los sabores, pero por otro lado se entiende que no tienen efecto alguno sobre los cuatro sabores de base (dulce, salado, ácido y amargo). 
-          .row.justify-content-center.text-white(titulo="d. Antioxidantes")
+          .row.justify-content-center.text-white(titulo="Antioxidantes")
             .col-md-11.col-12
               p Los antioxidantes son sustancias que pueden alargar la vida útil de un producto evitando el enranciamiento de las grasas y el cambio de color por oxidación.  
               p En las industrias cárnica se emplean el Butilhidroxianisol (BHA) y el Butilhidroxitolueno (BHT), los cuales actúan retardando la rancidez cárnica. De acuerdo con la NTC 1325 de 2023 se permite utilizar el 0.01 % en peso, máximo referido al contenido de grasa en productos frescos y el 0.003 % en peso máximo en productos deshidratados. 

@@ -247,7 +247,7 @@
           .col-auto
             img(src='@/assets/curso/temas/t2/subt.svg', alt='')
           .col-auto
-            h3.mb-0.text-white A. Agua
+            h3.mb-0.text-white Agua
       
       .row.justify-content-center.mb-4(data-aos="fade-down")
         .col-lg-4
@@ -263,15 +263,15 @@
             img(src='@/assets/curso/temas/t1/17.svg', alt='')
           .col-lg-8.col-md-8
             p Se dice que el agua en la carne se encuentra presente en tres formas:
-            ul.lista-ul.fa-lista.mb-0
-              li.mb-1 
-                i.lista-ul__vineta
+            ul.lista-ul--color.fa-lista.mb-2.mb-md-0
+              li.mb-1
+                i.fas.fa-check-circle
                 | El agua de constitución que representa el 4 % del agua total, es la que se encuentra ligada químicamente a las proteínas. 
-              li.mb-1 
-                i.lista-ul__vineta
+              li.mb-1
+                i.fas.fa-check-circle
                 | El agua de interface que corresponde al agua formada por capas en las fibras musculares y a aquella que se encuentra distante de las proteínas. 
-              li.mb-0 
-                i.lista-ul__vineta
+              li.mb-0
+                i.fas.fa-check-circle
                 | El agua normal, que es aquella que circula libremente en el musculo o está retenida en este a través de las proteínas de gel. Esta forma de agua desaparece en su mayoría cuando la carne es sometida a procesos térmicos como la cocción. 
 
       .subt.mb-4(data-aos="fade-right")
@@ -279,7 +279,7 @@
           .col-auto
             img(src='@/assets/curso/temas/t2/subt.svg', alt='')
           .col-auto
-            h3.mb-0.text-white B. Proteínas
+            h3.mb-0.text-white Proteínas
       
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
@@ -332,7 +332,7 @@
           .col-auto
             img(src='@/assets/curso/temas/t2/subt.svg', alt='')
           .col-auto
-            h3.mb-0.text-white C. Grasas
+            h3.mb-0.text-white Grasas
       
       p Las grasas presentes en la carne son sustancias compuestas principalmente por carbono, hidrógeno y oxígeno. La mayor parte de estas grasas se encuentran en forma de triglicéridos, los cuales representan más del 70 % de la grasa total, recibiendo el nombre de grasa verdadera. El porcentaje restante está constituido por otros componentes lipídicos, como el colesterol y los fosfolípidos. 
 
@@ -358,7 +358,7 @@
           .col-auto
             img(src='@/assets/curso/temas/t2/subt.svg', alt='')
           .col-auto
-            h3.mb-0.text-white D. Carbohidratos
+            h3.mb-0.text-white Carbohidratos
       
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
@@ -378,7 +378,7 @@
           .col-auto
             img(src='@/assets/curso/temas/t2/subt.svg', alt='')
           .col-auto
-            h3.mb-0.text-white E. Vitaminas
+            h3.mb-0.text-white Vitaminas
       
       .row.justify-content-center.align-items-end.mb-5(data-aos="fade-down")
         .col-lg-3.mb-3.mb-lg-0
@@ -396,7 +396,7 @@
           .col-auto
             img(src='@/assets/curso/temas/t2/subt.svg', alt='')
           .col-auto
-            h3.mb-0.text-white F. Minerales
+            h3.mb-0.text-white Minerales
 
       .row.justify-content-center.align-items-center
         .col-lg-1.col-md-2.col-4.mb-3.mb-md-0(data-aos="fade-right")
