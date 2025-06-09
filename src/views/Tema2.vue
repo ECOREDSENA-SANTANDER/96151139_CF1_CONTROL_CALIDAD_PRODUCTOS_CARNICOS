@@ -218,21 +218,26 @@
           img.la-img(src='@/assets/curso/temas/t2/2.png', alt='')
         .col-lg-9
           p Por otro lado, los aditivos son sustancias que normalmente no se consumen como alimento, ni se usan normalmente como ingrediente característico del alimento y cuya adición intencional al alimento es con un fin tecnológico e incluso organoléptico. Es decir, los aditivos son adicionados a los alimentos para potenciar el sabor, preservar el alimento, lograr determinadas características organolépticas, prolongar su vida útil en envasado, almacenamiento y transporte. 
-          .bg2.p-3
-            p Se pueden resumir como principales funciones de los aditivos las siguientes:
-            ul.lista-ul--color.color-secundario.fa-lista.mb-0
-              li
-                i.fas.fa-check-circle
-                | Mejorar el valor nutricional del alimento.
-              li
-                i.fas.fa-check-circle
-                | Potenciar las características organolépticas como color, sabor y textura. 
-              li
-                i.fas.fa-check-circle
-                | Conservar, proteger y alargar la vida útil de los productos cárnicos. 
-              li.mb-0
-                i.fas.fa-check-circle
-                | Contribuir al proceso de producción, envasado, almacenamiento y transporte.
+          .bg2
+            .row.justify-content-center.align-items-end
+              .col-lg-8
+                .p-3.px-4
+                  p Se pueden resumir como principales funciones de los aditivos las siguientes:
+                  ul.lista-ul--color.color-secundario.fa-lista.mb-0
+                    li
+                      i.fas.fa-check-circle
+                      | Mejorar el valor nutricional del alimento.
+                    li
+                      i.fas.fa-check-circle
+                      | Potenciar las características organolépticas como color, sabor y textura. 
+                    li
+                      i.fas.fa-check-circle
+                      | Conservar, proteger y alargar la vida útil de los productos cárnicos. 
+                    li.mb-0
+                      i.fas.fa-check-circle
+                      | Contribuir al proceso de producción, envasado, almacenamiento y transporte.
+              .col-lg-4
+                img(src='@/assets/curso/temas/t2/6.svg', alt='')
 
     p.mb-5 Los aditivos para productos procesados que son enlatados están regidos por el #[em Food Chemical Codex (FCC)], que establece las especificaciones de pureza y calidad.
 

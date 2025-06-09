@@ -120,7 +120,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CF1_96151139_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -136,12 +136,11 @@ export default {
   },
   complementario: [
     {
-      tema: 'Clasificación de los productos cárnicos',
+      tema: 'Productos cárnicos',
       referencia:
-        'Venegas – Fornias, O. & Valladares – Diaz, C. (1999). Clasificación de los productos cárnicos. Revista Cubana de Alimentación y Nutrición, 13 (1), 63-67.',
-      tipo: 'Artículo PDF',
-      link:
-        'https://www.researchgate.net/profile/Octavio-Venegas/publication/237517413_CLASIFICACIN_DE_LOS_PRODUCTOS_CRNICOS/links/5c744f2c299bf1268d25a1b4/CLASIFICACIN-DE-LOS-PRODUCTOS-CRNICOS.pdf',
+        'Jurado - Gámez, H. & Insuasty – Santacruz, E. (2021). Procedimientos de tecnología de carnes. Editorial Universidad de Nariño. Colombia. ',
+      tipo: 'PDF',
+      link: 'https://sired.udenar.edu.co/7320/1/libro%20carnes%20digital.pdf',
     },
     {
       tema: 'Ingredientes usados en la elaboración de productos cárnicos',
@@ -334,12 +333,12 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette González Quintero',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          nombre: 'Andrea Ardila Chaparro',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
