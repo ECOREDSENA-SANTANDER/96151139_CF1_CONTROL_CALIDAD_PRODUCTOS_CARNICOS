@@ -28,7 +28,7 @@
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-9.col-md-9
-          p Las carnes se clasifican principalmente según el tipo de animal del que provienen, sin embargo, la clasificación más importante y conocida a nivel mundial es la que distingue entre carnes rojas y carnes blancas, ya que incluye diferentes variedades. Por ejemplo, dentro de las carnes rojas se encuentran la de res, cerdo y buey; mientras que las carnes blancas corresponden a las que provienen de las aves y los peces.
+          p Las carnes se clasifican principalmente según el tipo de animal del que provienen, sin embargo, la clasificación más importante y conocida a nivel mundial es la que distingue entre carnes rojas y carnes blancas, ya que incluye diferentes variedades. Por ejemplo, dentro de las carnes rojas se encuentran las de res, cerdo y buey; mientras que las carnes blancas corresponden a las que provienen de las aves y los peces.
         .col-lg-3.col-md-3.col-7
           img(src='@/assets/curso/temas/t1/3.svg', alt='')
 
@@ -76,7 +76,7 @@
           figcaption #[b Fuente:] (Samorodskaia, s.f.)
         .col-lg-8(data-aos="fade-left")
           p Por lo general, se considera que las carnes blancas son más saludables que las carnes rojas, esto se debe a que su contenido de grasas y calorías es menor, lo que las convierte en una opción más ligera y recomendada en muchas dietas equilibradas.
-          p Si bien esto es cierto, lo saludable de la carne no depende siempre de que sea roja o blanca, debido a que el contenido de grasas y calorías depende muchas veces de la parte del animal que se esté consumiendo. Así pues, una parte especifica como el lomo de un animal vacuno puede resultar más saludable en cuestión de grasas y calorías que un ala de pollo con piel. Por tanto, no siempre la carne blanca es mejor que la roja, ya que incluso en el caso mencionado, el ala del pollo posee una mayor cantidad de colesterol de baja densidad o colesterol “malo”.
+          p Si bien esto es cierto, lo saludable de la carne no depende siempre de que sea roja o blanca, debido a que el contenido de grasas y calorías depende muchas veces de la parte del animal que se esté consumiendo. Así pues, una parte específica como el lomo de un animal vacuno puede resultar más saludable en cuestión de grasas y calorías que un ala de pollo con piel. Por tanto, no siempre la carne blanca es mejor que la roja, ya que incluso en el caso mencionado, el ala del pollo posee una mayor cantidad de colesterol de baja densidad o colesterol “malo”.
           .row.justify-content-center.align-items-center
             .col-lg-8.col-md-8
               p La procedencia de las carnes blancas destinadas al consumo humano en los diferentes mercados a nivel mundial suele estar ligada, generalmente, a la producción industrial de animales domesticados. Por esta razón, existen diversas variedades de carnes que dependen de las zonas geográficas de donde provienen.
@@ -125,7 +125,7 @@
                 .col-12
                   img(src='@/assets/curso/temas/t1/tarj2.png' alt='')
               h4.bg-color-acento-contenido.text-center.text-white.py-1 Ternera:
-              p.text-center La carne de ternera proviene de los animales que tienen entre 8 y 12 meses de edad. Es una carne con un sabor más pronunciado, pero de textura suave. Su contenido de grasa es muy bajo, ya que contienen una buena cantidad de agua en su composición. 
+              p.text-center La carne de ternera proviene de los animales que tienen entre 8 y 12 meses de edad. Es una carne con un sabor más pronunciado, pero de textura suave. Su contenido de grasa es muy bajo, ya que contiene una buena cantidad de agua en su composición. 
             .tarjeta.bg1.p-4
               .row.justify-content-center.mb-2
                 .col-12
@@ -147,9 +147,9 @@
 
       .subt.mb-4(data-aos="fade-right")
         .row.align-items-center
-          .col-auto
+          .col-3.col-md-auto
             img(src='@/assets/curso/temas/t2/subt.svg', alt='')
-          .col-auto
+          .col-9.col-md-auto
             h3.mb-0.text-white Carne de ovinos y caprinos
       
       p Dentro de esta clasificación están las variedades de carnes provenientes de los corderos y de las ovejas; para el caso de los corderos hay una clasificación de variedades similar a la de los vacunos que depende de la edad en la que sea sacrificado el animal. Las variedades correspondientes son: 
@@ -175,7 +175,7 @@
                   span.mb-0 #[b Ovino mayor o carnero:] es el animal que tiene más de un año de edad. 
             .col-lg-4.col-md-4.col-7
               img(src='@/assets/curso/temas/t1/9.svg', alt='') 
-          p El contenido graso del cordero y la oveja varia principalmente de acuerdo con la pieza del animal que se vaya a consumir, sin embargo, de manera general se puede afirmar que, a pesar de tratarse de una carne roja, es rica en grasas y proteínas de alto valor biológico, debido a su elevado contenido de aminoácidos esenciales para el organismo.
+          p El contenido graso del cordero y la oveja varía principalmente de acuerdo con la pieza del animal que se vaya a consumir, sin embargo, de manera general se puede afirmar que, a pesar de tratarse de una carne roja, es rica en grasas y proteínas de alto valor biológico, debido a su elevado contenido de aminoácidos esenciales para el organismo.
           p Adicionalmente, este tipo de carne es una buena fuente de vitaminas y minerales, pues en ella se pueden encontrar las vitaminas del grupo B en especial la vitamina B12 y la B6. 
 
 
@@ -272,7 +272,7 @@
                 | El agua de interface que corresponde al agua formada por capas en las fibras musculares y a aquella que se encuentra distante de las proteínas. 
               li.mb-0
                 i.fas.fa-check-circle
-                | El agua normal, que es aquella que circula libremente en el musculo o está retenida en este a través de las proteínas de gel. Esta forma de agua desaparece en su mayoría cuando la carne es sometida a procesos térmicos como la cocción. 
+                | El agua normal, que es aquella que circula libremente en el músculo o está retenida en este a través de las proteínas de gel. Esta forma de agua desaparece en su mayoría cuando la carne es sometida a procesos térmicos como la cocción. 
 
       .subt.mb-4(data-aos="fade-right")
         .row.align-items-center
@@ -295,7 +295,7 @@
             h5 Figura 3.
             span Estructura primaria de las proteínas 
           figure  
-            img(src='@/assets/curso/temas/t1/fig3.svg', alt='La imagen presenta una cadena de aminoácidos formando la estructura primaria de la proteína. Los aminoácidos se presentan como círculos azules conectados entre sí en una estructura lineal con curvas en varias direcciones. Unas flechas señalan algunos de estos círculos, indicando que cada uno de ellos corresponde a un aminoácido individual dentro de la cadena. ')  
+            img(src='@/assets/curso/temas/t1/fig3.svg', alt='La imagen presenta una cadena de aminoácidos formando la estructura primaria de la proteína. Los aminoácidos se presentan como círculos azules conectados entre sí en una estructura lineal con curvas en varias direcciones. Unas flechas señalan algunos de estos círculos, indicando que cada uno de ellos corresponde a un aminoácido individual dentro de la cadena.')  
           figcaption #[b Fuente:] Tomada de LabXchange, (2020 ). 
     
       p.mb-4 Las proteínas musculares de la carne se clasifican en tres grupos:
@@ -410,12 +410,12 @@
       #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 1.3 Características sensoriales de la carne
 
-      p.mb-4 Las características sensoriales de la carne son importantes, dado que permiten la identificación de posibles alteraciones. Además, son la manera como el consumidor identifica al producto y lo califica de acuerdo con sus gustos y/o preferencias (Jurado – Gámez & Insuasty – Santacruz, 2021). 
+      p.mb-4 Las características sensoriales de la carne son importantes, dado que permiten la identificación de posibles alteraciones. Además, son la manera como el consumidor identifica al producto y lo califica de acuerdo con sus gustos y / o preferencias (Jurado – Gámez & Insuasty – Santacruz, 2021). 
 
       TabsA.color-acento-botones.mb-5(data-aos="fade-down")
         .tarjeta.color-primario.p-4(titulo="Color")
           h4 Color
-          p El color de la carne está relacionado directamente con el pH y otros factores como el #[em stress] del animal antes y durante el sacrifico. La carne, luego del sacrificio, consume el glucógeno presente en los tejidos musculares y se transforma en ácido láctico, lo que provoca un descenso del pH. Las condiciones en las cuales se reduce el pH durante las 24 horas siguientes al sacrificio determinan los tres tipos de carne que se pueden presentar (Jurado – Gámez & Insuasty – Santacruz, 2021):           
+          p El color de la carne está relacionado directamente con el pH y otros factores como el #[em stress] del animal antes y durante el sacrificio. La carne, luego del sacrificio, consume el glucógeno presente en los tejidos musculares y se transforma en ácido láctico, lo que provoca un descenso del pH. Las condiciones en las cuales se reduce el pH durante las 24 horas siguientes al sacrificio determinan los tres tipos de carne que se pueden presentar (Jurado – Gámez & Insuasty – Santacruz, 2021):           
           .titulo-sexto.color-acento-contenido
             h5 Figura 4.
             span Coloración en los tipos de carne #[em DFD], normal y #[em PSE]
@@ -435,17 +435,17 @@
         .tarjeta.color-primario.p-4(titulo="Aroma")
           h4 Aroma
           p Consiste en una propiedad sensorial de gran importancia para los consumidores de carne procesada y fresca, se trata de un factor de calidad que determina la aceptación o rechazo del producto.
-          p El aroma de la carne se origina por el tratamiento térmico al que es sometida la carne, al estar cruda su olor es metálico como el de la sangre y al ser cocida presenta reacciones químicas en las que interactúan y se transforman los compuestos, como la reacción de #[em Maillard], la caramelización de los carbohidratos y la degradación térmica de los lípidos, péptidos y aminoácidos.  Cabe resaltar que la presencia de antioxidantes puede reducir la formación de compuestos volátiles derivados de estos procesos.
+          p El aroma de la carne se origina por el tratamiento térmico al que es sometida la carne, al estar cruda su olor es metálico como el de la sangre y al ser cocida presenta reacciones químicas en las que interactúan y se transforman los compuestos, como la reacción de Maillard, la caramelización de los carbohidratos y la degradación térmica de los lípidos, péptidos y aminoácidos.  Cabe resaltar que la presencia de antioxidantes puede reducir la formación de compuestos volátiles derivados de estos procesos.
           p Una carne almacenada en malas condiciones desarrolla aromas acres, pútridos o rancios debido a la descomposición de las proteínas, la acción de microorganismos y la degradación oxidativa de las grasas. 
         .tarjeta.color-primario.p-4(titulo="Sabor")
           h4 Sabor
-          p Existen factores intrínsecos y extrínsecos que varían el sabor de la carne modificando su intensidad. Estos factores incluyen: el pH, el genotipo, el régimen de producción, el manejo #[em post mórtem], la temperatura, el tipo de alimentación, la edad del animal y su especie, al igual que el uso de aditivos no cárnicos como los saborizantes y las especias.
+          p Existen factores intrínsecos y extrínsecos que varían el sabor de la carne modificando su intensidad. Estos factores incluyen: el pH, el genotipo, el régimen de producción, el manejo post mórtem, la temperatura, el tipo de alimentación, la edad del animal y su especie, al igual que el uso de aditivos no cárnicos como los saborizantes y las especias.
           p De igual manera, la grasa de la carne se relaciona con el sabor, en razón a que a mayor concentración de grasa saturada mayor es la suavidad que presenta la carne para las papilas gustativas.
           p Por otra parte, en la carne se encuentran naturalmente algunas sustancias con características diferenciadas como por ejemplo los #[b tocoferoles liposolubles]. Estas sustancias poseen propiedades antioxidantes que atrapan peróxidos, sin embargo, es importante aclarar que, debido a su baja concentración, su efecto es bastante limitado. 
           p También se consideran como prooxidantes los tocoferoles junto con el ácido ascórbico cuando se encuentran en altas concentraciones.
         .tarjeta.color-primario.p-4(titulo="Estructura")
           h4 Estructura
-          p En cuanto a este aspecto se indica que la carne posee la estructura de mayor complejidad entre los alimentos, lo cual solo presenta variaciones determinadas por la especie o raza del animal, al igual que la zona muscular de donde provenga. Por supuesto, dicha estructura varia a través del proceso de preparación y maduración de la carne, tanto fisca como químicamente.
+          p En cuanto a este aspecto se indica que la carne posee la estructura de mayor complejidad entre los alimentos, lo cual solo presenta variaciones determinadas por la especie o raza del animal, al igual que la zona muscular de donde provenga. Por supuesto, dicha estructura varía a través del proceso de preparación y maduración de la carne, tanto física como químicamente.
         .tarjeta.color-primario.p-4(titulo="Textura")
           h4 Textura
           p En razón a la complejidad descrita de su estructura, la carne tiene gran resistencia a las acciones mecánicas que se le ejercen, característica que se puede percibir como dureza primaria del sistema nervioso y vascular, los filamentos, el tejido conectivo y el tejido graso. 

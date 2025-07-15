@@ -20,7 +20,7 @@ export default {
       tema: 'Generalidades de la carne y sus derivados',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> Evaluar la comprensión de los conceptos fundamentales sobre la carne, la clasificación según su origen, su composición química, los productos cárnicos derivados, procesos de producción y características especiales. Además de la normativa relacionada a la producción de productos cárnicos. ',
+        '<b>Objetivo:</b> evaluar la comprensión de los conceptos fundamentales sobre la carne, la clasificación según su origen, su composición química, los productos cárnicos derivados, procesos de producción y características especiales. Además de la normativa relacionada a la producción de productos cárnicos. ',
       barajarPreguntas: false,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',

@@ -5,16 +5,16 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Buenas prácticas de manufactura (BPM)
+      h1 Buenas Prácticas de Manufactura (BPM)
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8(data-aos="fade-right")
-        p Las buenas prácticas de manufactura (BPM) son los principios básicos y prácticas generales de higiene en la manipulación, preparación, elaboración, envasado, almacenamiento, transporte y distribución de alimentos para el consumo humano, con el objetivo de garantizar que los productos se fabriquen en condiciones sanitarias salubres y se disminuyan los riesgos inherentes a la producción. 
+        p Las Buenas Prácticas de Manufactura (BPM) son los principios básicos y prácticas generales de higiene en la manipulación, preparación, elaboración, envasado, almacenamiento, transporte y distribución de alimentos para el consumo humano, con el objetivo de garantizar que los productos se fabriquen en condiciones sanitarias salubres y se disminuyan los riesgos inherentes a la producción. 
         .row.justify-content-center.align-items-center.mb-4
           .col-md-2.col-3
             img.pe-lg-2(src='@/assets/curso/temas/t4/2.svg', alt='')
           .col-md-10.col-9
-            p.mb-0 En Colombia, la solicitud del certificado BPM se realiza ante el instituto nacional de vigilancia de medicamentos y alimentos (INVIMA). El certificado de BPM es un documento que acredita que el establecimiento fabricante cumple con las buenas prácticas vigentes, expedidas por el Ministerio de Salud.
+            p.mb-0 En Colombia, la solicitud del certificado BPM se realiza ante el Instituto Nacional de Vigilancia de Medicamentos y Alimentos (INVIMA). El certificado de BPM es un documento que acredita que el establecimiento fabricante cumple con las buenas prácticas vigentes, expedidas por el Ministerio de Salud.
       .col-lg-4.col-md-10(data-aos="fade-left")
         img(src='@/assets/curso/temas/t4/1.png', alt='')
 

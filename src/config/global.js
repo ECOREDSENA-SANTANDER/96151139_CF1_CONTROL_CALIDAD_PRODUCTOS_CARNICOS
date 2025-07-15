@@ -155,7 +155,7 @@ export default {
     {
       termino: 'Aditivo alimentario',
       significado:
-        'Sustancia que normalmente no se consume como alimento y no se usa normalmente como ingrediente característico del alimento, tengo o no valor nutritivo, y cuya adición intencional al alimento con un fin tecnológico (incluso organoléptico) en la fabricación, elaboración, preparación, tratamiento, envasado, empaque, transporte o conservación de ese alimento, resulta o es de prever que resulte (directamente o indirectamente) en que él o sus derivados pasen a ser un componente de tales alimentos o afecten las características de éstos.',
+        'Sustancia que normalmente no se consume como alimento y no se usa normalmente como ingrediente característico del alimento, tengo o no valor nutritivo, y cuya adición intencional al alimento con un fin tecnológico (incluso organoléptico) en la fabricación, elaboración, preparación, tratamiento, envasado, empaque, transporte o conservación de ese alimento, resulta o es de prever que resulte (directamente o indirectamente) en que él o sus derivados pasen a ser un componente de tales alimentos o afecten las características de estos.',
     },
     {
       termino: 'Animal de abasto',
@@ -180,7 +180,7 @@ export default {
     {
       termino: 'Curado',
       significado:
-        'proceso de estabilización del color de la carne mediante la adición de nitrito de sodio y agentes coadyuvantes (cloruro de sodio, azucares, ácido ascórbico, entre otros).',
+        'proceso de estabilización del color de la carne mediante la adición de nitrito de sodio y agentes coadyuvantes (cloruro de sodio, azúcares, ácido ascórbico, entre otros).',
     },
     {
       termino: 'Embutido',

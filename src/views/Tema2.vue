@@ -58,7 +58,7 @@
               .row.justify-content-center
                 .col-lg-7
                   h4 Productos escaldados embutidos
-                  p Son aquellos elaborados con un tipo de carne o una mezcla de 2 o más carnes y grasa, molidas o picadas, crudas o cocinadas con adición o no de subproductos y/o aditivos permitidos. 
+                  p Son aquellos elaborados con un tipo de carne o una mezcla de 2 o más carnes y grasa, molidas o picadas, crudas o cocinadas con adición o no de subproductos y / o aditivos permitidos. 
                   p La mezcla da como resultado una pasta que luego es colocada o embutida en tripas naturales o artificiales y que se someten a uno o más tratamientos térmicos (cocción, curado, secado, ahumado). El control de la temperatura interna durante el tratamiento térmico debe estar entre 68 y 72 °C.
                   p En este grupo se encuentran:
                   ul.lista-ul--color.fa-lista
@@ -85,7 +85,7 @@
               .row.justify-content-center
                 .col-lg-7
                   h4 Productos crudos frescos
-                  p Son productos crudos elaborados con carne y grasa molidas, con adición o no de subproductos y/o aditivos permitidos. Su proceso de manufactura consta simplemente de la mezcla de los diferentes ingredientes y que pueden ser embutidos o no, curados o no y ahumados o no.
+                  p Son productos crudos elaborados con carne y grasa molidas, con adición o no de subproductos y / o aditivos permitidos. Su proceso de manufactura consta simplemente de la mezcla de los diferentes ingredientes y que pueden ser embutidos o no, curados o no y ahumados o no.
                   p Estos productos deben conservarse bajo técnicas de refrigeración o de congelación ya que la acción de conservantes como la sal y los nitritos es insuficiente debido a la cantidad limitada añadida a la mezcla. Los productos crudos frescos deben ser sometidos a un tratamiento térmico antes de su consumo. Generalmente la temperatura del tratamiento térmico antes del consumo debe ser superior a los 75 °C. 
                   p En este grupo se encuentran productos como:
                   .row
@@ -147,7 +147,7 @@
                 .col-lg-7
                   h4 Productos procesados enlatados
                   p Son productos cárnicos elaborados con carne y otros ingredientes como aditivos permitidos que se tratan adecuadamente con calor en un proceso de esterilización rigurosa y se empacan en envases cerrados herméticos como las latas y que pueden ser almacenados por un largo tiempo. 
-                  p El material de los envases de ser aprobado por el Ministerio de Salud y Protección Social. 
+                  p El material de los envases debe ser aprobado por el Ministerio de Salud y Protección Social. 
                   p Dentro de los productos procesados y enlatados se encuentran:
                   .row
                     .col-md-6
@@ -243,9 +243,9 @@
 
     .subt.mb-4(data-aos="fade-right")
       .row.align-items-center
-        .col-auto
+        .col-3.col-md-auto
           img(src='@/assets/curso/temas/t2/subt.svg', alt='')
-        .col-auto
+        .col-9.col-md-auto
           h3.mb-0.text-white Ingredientes no cárnicos
 
     TabsA.color-acento-botones.mb-5(data-aos="fade-down")
@@ -268,7 +268,7 @@
             .col-lg-2.col-md-2.col-3.mb-3.mb-md-0
               img.px-lg-2(src='@/assets/curso/temas/t2/tab1.svg', alt='')
             .col-lg-10.col-md-10
-              p.mb-0 #[b Nota.] El agua o hielo que es utilizado en la elaboración de productos cárnicos debe ser agua de alta calidad química, higiénica y sanitaria, libre de cualquier agente contaminante ya sea químico o biológico, dado el uso alimentario al que va a ser destinada. Por tal razón, es indispensable que las plantas de producción de derivados cárnicos cuenten con agua potable. 
+              p.mb-0 #[b Nota.] El agua o hielo que es utilizado en la elaboración de productos cárnicos debe ser agua de alta calidad química, higiénica y sanitaria, libre de cualquier agente contaminante ya sea químico o biológico, dado el uso alimentario al que va a ser destinado. Por tal razón, es indispensable que las plantas de producción de derivados cárnicos cuenten con agua potable. 
       .tarjeta.color-primario.p-4(titulo="Sal")
         h4 Sal
         p La sal común o cloruro de sodio es un compuesto que se viene usando desde tiempos remotos en el procesamiento de la carne. Es un compuesto altamente higroscópico pues tiene la capacidad de reducir la actividad de agua de los alimentos facilitando la conservación y contribuyendo al desarrollo de los sabores. 
@@ -279,13 +279,13 @@
             span.mb-0 Dar el sabor salado a los productos cárnicos, generalmente se debe adicional el 2.5 % de sal al producto. 
           li.mb-1
             i.fas.fa-check-circle
-            span.mb-0 Proporcionar un efecto bacteriostático especialmente contra los microorganismos como las bacterias coliformes. Cuando la sal es usada por encima del 5 % contribuye a la inhibición de microorganismos anaerobios como la bacteria #[em Clostridium botulinum].
+            span.mb-0 Proporcionar un efecto bacteriostático especialmente contra los microorganismos como las bacterias coliformes. Cuando la sal es usada por encima del 5 % contribuye a la inhibición de microorganismos anaerobios como la bacteria Clostridium botulinum.
           li.mb-1
             i.fas.fa-check-circle
             | Aumentar la capacidad de retención de agua de la carne. 
           li.mb-1
             i.fas.fa-check-circle
-            | Bajar el punto isoeléctrico de las proteínas de la carne generando un entorno en que se altera la carga de las mismas, disminuyendo el punto donde estas pierden su capacidad de retención de agua.
+            | Bajar el punto isoeléctrico de las proteínas de la carne generando un entorno en que se altera la carga de las mismas, disminuyendo el punto donde estás pierden su capacidad de retención de agua.
           li.mb-0
             i.fas.fa-check-circle
             | Solubilizar las proteínas, mejorando su capacidad de formar emulsiones estables. 
@@ -294,7 +294,7 @@
             .col-lg-2.col-md-2.col-4.mb-3.mb-md-0
               img(src='@/assets/curso/temas/t2/tab2.svg', alt='')
             .col-lg-10.col-md-10
-              p.mb-0 #[b Nota.]  La sal debe ser de alta pureza para evitar que los productos cárnicos se oxiden y/o contaminen, además se recomienda almacenarla en lugares secos debido a su capacidad para captar la humedad del ambiente.  
+              p.mb-0 #[b Nota.]  La sal debe ser de alta pureza para evitar que los productos cárnicos se oxiden y / o contaminen, además se recomienda almacenarla en lugares secos debido a su capacidad para captar la humedad del ambiente.  
       .tarjeta.color-primario.p-4(titulo="Azúcar")
         h4 Azúcar
         p En los productos cárnicos se usa el azúcar o sacarosa extraído de la caña azucarera, también se usa la dextrosa o glucosa que se deriva del maíz, además de otros jarabes y edulcorantes como el sorbitol. 
@@ -376,7 +376,7 @@
           .col-lg-5.col-md-7
             img(src='@/assets/curso/temas/t2/tab4.png', alt='')
         p Los condimentos son mezclas de especias empleadas para definir el sabor de determinado producto cárnico. 
-        p Ya existen en el país empresas especializadas en la fabricación de condimentos para cada tipo de producto cárnico. Esto permite que las empresas productoras de cárnicos utilicen un condimento estandarizado para determinado producto. Por ejemplo, existen condimentos específicos para la salchicha tipo #[em Frankfurt], el salchichón, la mortadela, el cábano, entre otros. La cantidad de estos condimentos a utilizar dependerá de la recomendación del proveedor, que por lo general es de 8 gramos por kilogramo de pasta cárnica final.
+        p Ya existen en el país empresas especializadas en la fabricación de condimentos para cada tipo de producto cárnico. Esto permite que las empresas productoras de cárnicos utilicen un condimento estandarizado para determinado producto. Por ejemplo, existen condimentos específicos para la salchicha tipo Frankfurt, el salchichón, la mortadela, el cábano, entre otros. La cantidad de estos condimentos a utilizar dependerá de la recomendación del proveedor, que por lo general es de 8 gramos por kilogramo de pasta cárnica final.
         p En Colombia los productos vegetales como especias y condimentos son de uso permitido y no hay una dosis tóxica registrada, por esto es importante dar una buena manipulación a estos productos utilizando las normas de Buenas Prácticas de Manufactura (BPM).
 
 
@@ -394,7 +394,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-primario")
           .row.justify-content-center.text-white(titulo="Nitritos y nitratos")
             .col-md-11.col-12
-              p Los nitritos y nitratos son llamadas también sales de curación y desde los antepasados se han utilizado para conservar los alimentos, evitando la proliferación de bacterias como la #[em Clostridium botulinum], además gracias a una reacción química parcial con la mioglobina de la carne dan color rosado característico de los productos cárnicos. 
+              p Los nitritos y nitratos son llamadas también sales de curación y desde los antepasados se han utilizado para conservar los alimentos, evitando la proliferación de bacterias como la Clostridium botulinum, además gracias a una reacción química parcial con la mioglobina de la carne dan color rosado característico de los productos cárnicos. 
               p Estas sustancias son muy usadas en la elaboración de productos de corta maduración como las salchichas, los jamones, las mortadelas, entre otros, para prevenir el crecimiento de bacterias, estabilizar el color y resaltar el sabor. 
               p De acuerdo con la NTC 1325 de 2023 los nitratos de sodio y de potasio pueden ser usados únicamente en productos madurados o fermentados o ambos en un máximo de 200 miligramos por kilogramo. Y en el caso de los nitritos de sodio o de potasio, estos pueden ser usados en máximo 200 miligramos por kilogramo.
           .row.justify-content-center.text-white(titulo="Fosfatos")
@@ -408,7 +408,7 @@
           .row.justify-content-center.text-white(titulo="Antioxidantes")
             .col-md-11.col-12
               p Los antioxidantes son sustancias que pueden alargar la vida útil de un producto evitando el enranciamiento de las grasas y el cambio de color por oxidación.  
-              p En las industrias cárnica se emplean el Butilhidroxianisol (BHA) y el Butilhidroxitolueno (BHT), los cuales actúan retardando la rancidez cárnica. De acuerdo con la NTC 1325 de 2023 se permite utilizar el 0.01 % en peso, máximo referido al contenido de grasa en productos frescos y el 0.003 % en peso máximo en productos deshidratados. 
+              p En las industrias cárnicas se emplean el Butilhidroxianisol (BHA) y el Butilhidroxitolueno (BHT), los cuales actúan retardando la rancidez cárnica. De acuerdo con la NTC 1325 de 2023 se permite utilizar el 0.01 % en peso, máximo referido al contenido de grasa en productos frescos y el 0.003 % en peso máximo en productos deshidratados. 
 
 
 
