@@ -23,7 +23,7 @@
         .d-flex.align-items-center
           .col-auto
             img(src='@/assets/curso/temas/t2/subt.svg', alt='')
-          .col-auto
+          .col-11.col-md-auto
             h3.mb-0.text-white.ps-2 Clasificación general de la carne
 
       .row.justify-content-center.align-items-center.mb-5
