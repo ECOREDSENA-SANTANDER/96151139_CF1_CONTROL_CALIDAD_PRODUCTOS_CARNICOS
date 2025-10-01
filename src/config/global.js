@@ -138,9 +138,10 @@ export default {
     {
       tema: 'Productos cárnicos',
       referencia:
-        'Jurado - Gámez, H. & Insuasty – Santacruz, E. (2021). Procedimientos de tecnología de carnes. Editorial Universidad de Nariño. Colombia. ',
+        'Federación Española de Nutrición. (s. f.). Carnes y productos cárnicos.',
       tipo: 'PDF',
-      link: 'https://sired.udenar.edu.co/7320/1/libro%20carnes%20digital.pdf',
+      link:
+        'https://www.fen.org.es/storage/app/media/flipbook/mercado-alimentos-fen/010-Carnes.pdf',
     },
     {
       tema: 'Ingredientes usados en la elaboración de productos cárnicos',
@@ -220,7 +221,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Chabraszewski, J. (s.f). Raw beef and vegetables on white background. Recuperado de Adobe Stock:',
+        'Chabraszewski, J. (s. f.). Raw beef and vegetables on white background. Adobe Stock.',
       link:
         'https://stock.adobe.com/co/images/raw-beef-and-vegetables-on-white-background/49965398?as_campaign=ftmigration2&as_channel=dpcft&as_campclass=brand&as_source=ft_web&as_camptype=acquisition&as_audience=users&as_content=closure_asset-detail-page',
     },
@@ -230,8 +231,7 @@ export default {
       link: '',
     },
     {
-      referencia:
-        'LabXchage. (20 de enero de 2020). Proteínas. LabXchange. Recuperado el 10 de marzo de 2025 de',
+      referencia: 'LabXchage. (20 de enero de 2020). Proteínas. LabXchange.',
       link:
         'https://www.labxchange.org/library/items/lb:LabXchange:95ebc6fd:html:1',
     },
@@ -252,7 +252,7 @@ export default {
     },
     {
       referencia:
-        'Samorodskaia, N. (s.f). Raw chicken meat isolated on white background. Recuperado de Adobe Stock:',
+        'Samorodskaia, N. (s. f.). Raw chicken meat isolated on white background. Adobe Stock.',
       link:
         'https://stock.adobe.com/co/contributor/206877750/natalia-samorodskaia?load_type=author&prev_url=detail&asset_id=581807506',
     },
